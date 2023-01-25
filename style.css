@@ -21,8 +21,9 @@
     top: 0;
     left: 0;
     margin: 0;
-    width: 950px;
+    width: 960px;
     height: 40px;
+    background-color: rgba(104, 102, 103, 0.1)
    
 }
 .nav a 
@@ -55,10 +56,10 @@
     align-items: center;
     color: black;
     position: fixed;
-    left: 50%;
-    width: 59rem;
+    left: 50.56%;
+    width: 50%;
     height: 40px;
-    
+    background-color: rgb(190, 190, 199);
     
 } 
 
